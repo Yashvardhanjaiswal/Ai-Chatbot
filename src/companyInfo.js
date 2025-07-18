@@ -1,0 +1,1 @@
+export const companyinfo = `Smart Data Analyzer Inc. is a leading provider of AI-powered data visualization and analytics tools. Our mission is to make complex data easy to understand and actionable for everyone — from startups to enterprises. Founded in 2022, we strive to simplify decision-making through smart, intuitive dashboards and automation.`;
